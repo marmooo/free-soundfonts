@@ -1,0 +1,104 @@
+[
+	{
+		"name": "005.6mg_Aspirin_Stereo_V1.2_Bank",
+		"license": "Public Domain",
+		"web": "",
+		"size": 4
+	},
+	{
+		"name": "32MbGMStereo",
+		"license": "http://ntonyx.com/05_sf_01.html#008",
+		"web": "http://ntonyx.com/05_sf_01.html#008",
+		"size": 7
+	},
+	{
+		"name": "90's_Retro_Vintage_v1.05",
+		"license": "Public Domain",
+		"web": "https://musical-artifacts.com/artifacts/1386",
+		"size": 25
+	},
+	{
+		"name": "Airfont_320_neo",
+		"license": "Public Domain",
+		"web": "https://musical-artifacts.com/artifacts/634",
+		"size": 4
+	},
+	{
+		"name": "Airfont_330",
+		"license": "CC-BY-3.0",
+		"web": "https://musical-artifacts.com/artifacts/874",
+		"size": 11
+	},
+	{
+		"name": "Airfont_340",
+		"license": "Public Domain",
+		"web": "https://musical-artifacts.com/artifacts/633",
+		"size": 7
+	},
+	{
+		"name": "Airfont_380_final",
+		"license": "Public Domain",
+		"web": "https://musical-artifacts.com/artifacts/635",
+		"size": 25
+	},
+	{
+		"name": "Alex's_gm_v1.3",
+		"license": "CC-BY-3.0",
+		"web": "https://musical-artifacts.com/artifacts/1390",
+		"size": 38
+	},
+	{
+		"name": "Aspirin_160_GMGS_2015",
+		"license": "Public Domain",
+		"web": "",
+		"size": 6
+	},
+	{
+		"name": "FatBoy_v0.790",
+		"license": "https://fatboy.site/",
+		"web": "https://fatboy.site/",
+		"size": 31
+	},
+	{
+		"name": "FluidR3_GM",
+		"license": "",
+		"web": "",
+		"size": 21
+	},
+	{
+		"name": "GeneralUser_GS_v1.471",
+		"license": "http://www.schristiancollins.com/generaluser.php",
+		"web": "http://www.schristiancollins.com/generaluser.php",
+		"size": 9
+	},
+	{
+		"name": "Live_HQ_Natural_SoundFont_GM_V2.5.1",
+		"license": "CC-BY-4.0",
+		"web": "https://musical-artifacts.com/artifacts/1176",
+		"size": 77
+	},
+	{
+		"name": "MuseScore_General_v0.2",
+		"license": "MIT",
+		"web": "https://musescore.org/en/handbook/3/soundfonts-and-sfz-files",
+		"size": 40
+	},
+	{
+		"name": "SGM-V2.01",
+		"license": "CC-BY-4.0",
+		"web": "https://archive.org/details/SGM-V2.01",
+		"size": 30
+	},
+	{
+		"name": "SGM-v2.01-NicePianosGuitarsBass-V1.2",
+		"license": "CC-BY-3.0",
+		"web": "https://musical-artifacts.com/artifacts/855",
+		"size": 33
+	},
+	{
+		"name": "TimGM6mb",
+		"license": "Public Domain",
+		"web": "http://www.timbrechbill.com/saxguru/Timidity.php",
+		"size": 3
+	}
+]
