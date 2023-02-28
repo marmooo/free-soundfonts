@@ -15,6 +15,7 @@ Check network latency, playback latency, memory usage and sound quality.
 All soundfonts are separated by instrument and compressed by sf3 format:
 
 - docs/[name]/[000-127].sf3
+- docs/[name]/128.sf3 (percussion)
 - docs/list.json
 
 All soundfonts have a limit of file size to minimize network latency:
