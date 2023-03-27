@@ -10,6 +10,7 @@ Check network latency, playback latency, memory usage and sound quality.
 - [Tip Tap Rhythm](https://marmooo.github.io/tip-tap-rhythm/)
 - [Tip Tap Notes](https://marmooo.github.io/tip-tap-notes/)
 - [Waterfall Piano](https://marmooo.github.io/waterfall-piano/)
+- [Doremi Piano](https://marmooo.github.io/doremi-piano/)
 
 ## Features
 
