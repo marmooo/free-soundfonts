@@ -1,4 +1,4 @@
-import { expandGlobSync } from "https://deno.land/std/fs/expand_glob.ts";
+import { expandGlobSync } from "jsr:@std/fs";
 
 const db = JSON.parse(Deno.readTextFileSync("docs/list.json"));
 db.forEach((info) => {
