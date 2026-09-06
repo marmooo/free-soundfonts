@@ -3,102 +3,162 @@
 		"name": "005.6mg_Aspirin_Stereo_V1.2_Bank",
 		"license": "Public Domain",
 		"web": "",
-		"size": 4
+		"gmSize": 9,
+		"fullSize": 15,
+		"maxSize": 0,
+		"files": 191
 	},
 	{
 		"name": "32MbGMStereo",
 		"license": "http://ntonyx.com/05_sf_01.html#008",
 		"web": "http://ntonyx.com/05_sf_01.html#008",
-		"size": 8
+		"gmSize": 15,
+		"fullSize": 15,
+		"maxSize": 1,
+		"files": 137
 	},
 	{
 		"name": "90's_Retro_Vintage_v1.05",
 		"license": "Public Domain",
 		"web": "https://musical-artifacts.com/artifacts/1386",
-		"size": 27
+		"gmSize": 59,
+		"fullSize": 155,
+		"maxSize": 2,
+		"files": 470
 	},
 	{
 		"name": "Airfont_320_neo",
 		"license": "Public Domain",
 		"web": "https://musical-artifacts.com/artifacts/634",
-		"size": 4
+		"gmSize": 6,
+		"fullSize": 10,
+		"maxSize": 0,
+		"files": 325
 	},
 	{
 		"name": "Airfont_330",
 		"license": "CC-BY-3.0",
 		"web": "https://musical-artifacts.com/artifacts/874",
-		"size": 11
+		"gmSize": 20,
+		"fullSize": 22,
+		"maxSize": 1,
+		"files": 218
 	},
 	{
 		"name": "Airfont_340",
 		"license": "Public Domain",
 		"web": "https://musical-artifacts.com/artifacts/633",
-		"size": 8
+		"gmSize": 14,
+		"fullSize": 18,
+		"maxSize": 2,
+		"files": 326
 	},
 	{
 		"name": "Airfont_380_final",
 		"license": "Public Domain",
 		"web": "https://musical-artifacts.com/artifacts/635",
-		"size": 26
+		"gmSize": 38,
+		"fullSize": 38,
+		"maxSize": 3,
+		"files": 138
 	},
 	{
 		"name": "Alex's_gm_v1.3",
 		"license": "CC-BY-3.0",
 		"web": "https://musical-artifacts.com/artifacts/1390",
-		"size": 41
+		"gmSize": 60,
+		"fullSize": 60,
+		"maxSize": 3,
+		"files": 137
 	},
 	{
 		"name": "Aspirin_160_GMGS_2015",
 		"license": "Public Domain",
 		"web": "",
-		"size": 7
+		"gmSize": 13,
+		"fullSize": 24,
+		"maxSize": 1,
+		"files": 207
+	},
+	{
+		"name": "ColomboGMGS2_V16.0",
+		"license": "CC-BY-SA-4.0",
+		"web": "https://musical-artifacts.com/artifacts/1234",
+		"files": 886,
+		"gmSize": 120,
+		"fullSize": 378,
+		"maxSize": 3
 	},
 	{
 		"name": "FatBoy_v0.790",
 		"license": "https://fatboy.site/",
 		"web": "https://fatboy.site/",
-		"size": 32
+		"gmSize": 50,
+		"fullSize": 72,
+		"maxSize": 5,
+		"files": 281
 	},
 	{
-		"name": "FluidR3_GM",
+		"name": "FluidR3_v3.1",
 		"license": "MIT",
 		"web": "https://launchpad.net/ubuntu/+source/fluid-soundfont",
-		"size": 22
+		"gmSize": 70,
+		"fullSize": 78,
+		"maxSize": 1,
+		"files": 222
 	},
 	{
-		"name": "GeneralUser_GS_v1.471",
+		"name": "GeneralUser_GS_v1.472",
 		"license": "http://www.schristiancollins.com/generaluser.php",
 		"web": "http://www.schristiancollins.com/generaluser.php",
-		"size": 10
+		"gmSize": 17,
+		"fullSize": 34,
+		"maxSize": 1,
+		"files": 269
 	},
 	{
-		"name": "Live_HQ_Natural_SoundFont_GM_V2.5.1",
-		"license": "CC-BY-4.0",
-		"web": "https://musical-artifacts.com/artifacts/1176",
-		"size": 83
+		"name": "GeneralUser_GS_v2.0.3",
+		"license": "http://www.schristiancollins.com/generaluser.php",
+		"web": "http://www.schristiancollins.com/generaluser.php",
+		"gmSize": 19,
+		"fullSize": 38,
+		"maxSize": 1,
+		"files": 287
 	},
 	{
-		"name": "MuseScore_General_v0.2",
-		"license": "MIT",
-		"web": "https://musescore.org/en/handbook/3/soundfonts-and-sfz-files",
-		"size": 41
+		"name": "LiteGM_v1.03",
+		"license": "CC-BY-SA-4.0",
+		"web": "https://musical-artifacts.com/artifacts/3677",
+		"gmSize": 10,
+		"fullSize": 10,
+		"maxSize": 0,
+		"files": 137
 	},
 	{
 		"name": "SGM-V2.01",
 		"license": "CC-BY-4.0",
 		"web": "https://archive.org/details/SGM-V2.01",
-		"size": 31
+		"gmSize": 66,
+		"fullSize": 162,
+		"maxSize": 3,
+		"files": 409
 	},
 	{
 		"name": "SGM-v2.01-NicePianosGuitarsBass-V1.2",
 		"license": "CC-BY-3.0",
 		"web": "https://musical-artifacts.com/artifacts/855",
-		"size": 34
+		"gmSize": 98,
+		"fullSize": 225,
+		"maxSize": 3,
+		"files": 285
 	},
 	{
 		"name": "TimGM6mb",
 		"license": "Public Domain",
 		"web": "http://www.timbrechbill.com/saxguru/Timidity.php",
-		"size": 4
+		"gmSize": 5,
+		"fullSize": 5,
+		"maxSize": 0,
+		"files": 136
 	}
 ]
