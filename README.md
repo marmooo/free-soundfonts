@@ -6,28 +6,54 @@ Free soundfont collection optimized for playback on the web.
 
 Check network latency, playback latency, memory usage and sound quality.
 
-- [Free MIDI](https://marmooo.github.io/free-midi/)
-- [Tip Tap Rhythm](https://marmooo.github.io/tip-tap-rhythm/)
-- [Tip Tap Notes](https://marmooo.github.io/tip-tap-notes/)
-- [Waterfall Piano](https://marmooo.github.io/waterfall-piano/)
-- [Doremi Piano](https://marmooo.github.io/doremi-piano/)
+- General
+  - [@marmooo/piano-visualizer](https://marmooo.github.io/piano-visualizer) -
+    Beautiful piano visualizer
+  - [@marmooo/midi-player](https://marmooo.github.io/midi-player/) - GUI library
+  - [Free MIDI](https://marmooo.github.io/free-midi/) - Free MIDI search for
+    everyone. Free to listen, copy, play, etc.
+  - [midi2audio](https://marmooo.github.io/midi2audio/) - Convert MIDI to audio
+    (WAV, MP3, AAC, FLAC, Opus)
+  - [Humidy](https://marmooo.github.io/humidy/) - GM2 MIDI mixer app
+  - [Timidy](https://marmooo.github.io/timidy/) - Timidity++ style MIDI player
+- Instruments
+  - [Doremi Piano](https://marmooo.github.io/doremi-piano/) - Piano-style MPE
+    MIDI controller
+  - [4x4pad](https://marmooo.github.io/4x4pad/) - 4x4 grid MPE MIDI controller
+  - [Celltone](https://marmooo.github.io/celltone/) - Grid MPE MIDI controller
+    with Janko-Piano layout
+  - [Isotone](https://marmooo.github.io/isotone/) - Grid MPE MIDI controller
+    optimized for chords
+  - [Hexatone](https://marmooo.github.io/hexatone/) - Hexagonal MPE MIDI
+    controller with Wicki-Hayden layout
+  - [Glisstone](https://marmooo.github.io/glisstone/) - Hexagonal MPE MIDI
+    controller optimized for glissando
+- Games
+  - [Tip Tap Notes](https://marmooo.github.io/tip-tap-notes/) - Falling-note
+    rhythm game with tap notes
 
 ## Features
 
 All soundfonts are separated by instrument and compressed by sf3 format:
 
-- docs/[name]/[000-127].sf3
-- docs/[name]/128.sf3 (percussion)
-- docs/list.json
+```
+docs/[name]/
+  000/000.sf3  # bank 0, program 0
+  000/001.sf3
+  ...
+  128/000.sf3  # percussion (bank 128)
+  ...
+docs/list.json
+```
 
 All soundfonts have a limit of file size to minimize network latency:
 
 - The maximum file size of 1 instrument is limtied to 10MB
-- The total file size of 128 instruments is limted to 100MB
+- The total file size of GM2 instruments is limted to 100MB
 
 All soundfonts are deployed on Cloudflare Pages:
 
-- [https://soundfonts.pages.dev/GeneralUser_GS_v1.471/010.sf3](https://soundfonts.pages.dev/GeneralUser_GS_v1.471/010.sf3)
+- [https://soundfonts.pages.dev/GeneralUser_GS_v1.472/000/123.sf3](https://soundfonts.pages.dev/GeneralUser_GS_v1.472/000/123.sf3)
 - [https://soundfonts.pages.dev/list.json](https://soundfonts.pages.dev/list.json)
 
 ## Collections
@@ -46,13 +72,15 @@ All soundfonts are deployed on Cloudflare Pages:
 - [Alex's_gm_v1.3](https://musical-artifacts.com/artifacts/1390)
   ([CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/deed.en))
 - Aspirin_160_GMGS_2015 (Public Domain)
+- [ColomboGMGS2_V16.0](https://musical-artifacts.com/artifacts/1234)
+  ([CC-BY-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.en))
 - [FatBoy_v0.790](https://fatboy.site/)
-- Fluid_R3_GM (MIT)
-- [GeneralUser_GS_v1.471](http://www.schristiancollins.com/generaluser.php)
-- [Live_HQ_Natural_SoundFont_GM_V2.5.1](https://musical-artifacts.com/artifacts/1176)
-  ([CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/deed.en))
-- [MuseScore_General_v0.2](https://musescore.org/en/handbook/3/soundfonts-and-sfz-files)
-  (MIT)
+- [FluidR3_v3.1](https://github.com/pianobooster/fluid-soundfont)
+  ([MIT](https://github.com/pianobooster/fluid-soundfont/blob/main/COPYING))
+- [GeneralUser_GS_v1.472](http://www.schristiancollins.com/generaluser.php)
+- [GeneralUser_GS_v2.0.3](http://www.schristiancollins.com/generaluser.php)
+- [LiteGM_v1.03](https://musical-artifacts.com/artifacts/3677)
+  ([CC-BY-SA-4.0](http://creativecommons.org/licenses/by-sa/4.0/deed.en))
 - [SGM-V2.01](https://archive.org/details/SGM-V2.01)
   ([CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/))
 - [SGM-v2.01-NicePianosGuitarsBass-V1.2](https://musical-artifacts.com/artifacts/855)
