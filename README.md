@@ -33,6 +33,8 @@ Check network latency, playback latency, memory usage and sound quality.
     rhythm game with tap notes
   - [Flip Flap Notes](https://marmooo.github.io/flip-flap-notes/) - Falling-note
     rhythm game with various notes
+  - [Zip Zap Notes](https://marmooo.github.io/zip-zap-notes) - Falling-note game
+    where you dodge notes
 
 ## Features
 
