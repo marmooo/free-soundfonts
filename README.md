@@ -7,6 +7,8 @@ Free soundfont collection optimized for playback on the web.
 Check network latency, playback latency, memory usage and sound quality.
 
 - General
+  - [@marmooo/midy](https://github.com/marmooo/midy) - MIDI player/synthesizer
+    with a TypeScript API and C/Wasm cores.
   - [@marmooo/piano-visualizer](https://marmooo.github.io/piano-visualizer) -
     Beautiful piano visualizer
   - [@marmooo/midi-player](https://marmooo.github.io/midi-player/) - GUI library
@@ -35,6 +37,8 @@ Check network latency, playback latency, memory usage and sound quality.
     rhythm game with various notes
   - [Zip Zap Notes](https://marmooo.github.io/zip-zap-notes) - Falling-note game
     where you dodge notes
+  - [Pick Pack Notes](https://marmooo.github.io/zip-zap-notes) - Falling-note
+    game where you collect notes
 
 ## Features
 
